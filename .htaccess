@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName “[testsite]”
+AuthUserFile “[test]:[test]”
+require valid-user
